@@ -1,0 +1,5 @@
+Booking completed
+translate called
+
+translate called
+ Votre billet d'avion pour Berlin a été réservé avec succès.
